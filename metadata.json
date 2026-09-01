@@ -1,0 +1,8 @@
+{
+  "name": "Remix AANO BAZAR",
+  "description": "A premier multi-category e-commerce superstore and marketplace featuring Grocery, Electronics, Fashion, Beauty, Mobile Accessories, Flash Sales, Cashback Deals, and Seller/Dealer hubs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
